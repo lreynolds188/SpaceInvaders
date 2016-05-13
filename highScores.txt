@@ -1,0 +1,10 @@
+Luke: 1500
+Hamza: 1200
+Lucy: 1000
+George: 750
+Jenna: 720
+Lila: 700
+Gargy: 680
+Tom: 600
+Dogmeat: 560
+Michael: 10
