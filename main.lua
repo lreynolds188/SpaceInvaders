@@ -14,6 +14,8 @@ require("lives");
 require("level");
 require("background");
 
+-- @author Luke Aaron Reynolds - lreynolds188@gmail.com
+
 function love.load()
 
 	-- gameStates: menu, highScores, help, settings, game, gameover
