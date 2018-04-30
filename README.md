@@ -1,2 +1,3 @@
 # SpaceInvaders
-Space Invaders game made in LUA
+
+Design, build a prototype of, and text an action or educational game of your choice.
